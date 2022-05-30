@@ -7,4 +7,3 @@ This repository contains all of the notes taken by [Syed Hamza Asim ](https://gi
 ## Table of Contents
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
-  
